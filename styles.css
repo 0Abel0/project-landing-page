@@ -126,6 +126,7 @@ a,
     display: flex;
     gap: 90px;
     margin: 40px 0 100px 0;
+    align-items: center;
 }
 
 .btn-2 {
